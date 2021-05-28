@@ -18,5 +18,8 @@ git diff # show the difference of all files [ current version vs commited versio
 git config --global user.email "selvamanan369@gmail.com" # Tell the git about who is commiting
 git config --global user.name "Selva" # Tell the git about who is commiting
 
-
+# Remote repo config
+git remote add origin https://github.com/selvalr/quick-ref.git
+git branch -M main
+git push -u origin main
 ```
