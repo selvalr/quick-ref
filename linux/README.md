@@ -50,3 +50,5 @@ sudo apt autoclean # clean unwanted packages
 sudo apt autoremove # clean unwanted insatlled packages
 sudo apt install git # install individual tools here git
 ```
+
+### Permissions and Roles
