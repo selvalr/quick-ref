@@ -22,4 +22,10 @@ git config --global user.name "Selva" # Tell the git about who is commiting
 git remote add origin https://github.com/selvalr/quick-ref.git
 git branch -M main
 git push -u origin main
+
+# Repeative commands
+git status
+git add .
+git commit -m "added my changes"
+git push
 ```
