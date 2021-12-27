@@ -31,6 +31,10 @@ touch akilan.txt # create a empty file
 cat akilan.txt # View file content in command line
 vi akilan.txt # update file press i to insert data, press escape to come out insert mode
 # press : and type wq to write and quit the editor
+yy #use this comand to copy the current line
+dd #to delete entire line
+u #undo to last change
+3dd #to delete 3 lines
 rm akilan.txt # remove file
 rm -rf $dir_name# delete a dir and sub dir
 cp akilan.txt akilan-copy.txt # file copy
